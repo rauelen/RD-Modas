@@ -62,7 +62,7 @@ nav a {
     object-fit: cover;
 }
 
- .btn {
+.product .btn {
     background-color: #a67b5b;
     color: white;
     padding: 0.5rem 1rem;
@@ -77,6 +77,13 @@ form {
     margin: 0 auto;
 }
 
+.btn {
+    background-color: #a67b5b;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+}
 form label {
     margin-top: 1rem;
 }
