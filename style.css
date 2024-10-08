@@ -76,8 +76,9 @@ nav a {
 form {
     display: flex;
     flex-direction: column;
-    width: 750px;
+    width: 300px;
     margin: 0 auto;
+    height: 750px;
 }
 
 .btn {
