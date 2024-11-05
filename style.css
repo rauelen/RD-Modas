@@ -49,9 +49,15 @@ nav a {
     display: inline-block;
 }
 .sobre{
+    display: flex;
+    align-items: center;
 height:750px;
 
 
+}
+.textosobre{
+
+    width: 300px;
 }
 .sobre, .loja, .contato {
     padding: 2rem;
