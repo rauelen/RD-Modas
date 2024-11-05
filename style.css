@@ -49,14 +49,13 @@ nav a {
     display: inline-block;
 }
 .sobre{
-text-align: center;
+display: flex;
+align-items: center;
 height:750px;
 
 
 }
 .textosobre{
-    text-align: center;
-
     width: 300px;
 }
 .sobre, .loja, .contato {
