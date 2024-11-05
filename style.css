@@ -48,7 +48,11 @@ nav a {
     border-radius: 5px;
     display: inline-block;
 }
+.sobre{
+eight:750px;
 
+
+}
 .sobre, .loja, .contato {
     padding: 2rem;
     text-align: center;
